@@ -16,6 +16,9 @@ Desarrollé una aplicación web para un consultorio odontológico con las siguie
 - **Backend:** JPA
 - **Frontend:** JSP, HTML, CSS
 
+  ## Video de la interfaz grafica con sus funcionalidades:
+  https://youtu.be/hPvVGwhDkPk
+
 
 
 
