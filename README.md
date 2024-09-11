@@ -1,7 +1,4 @@
 # Consultorio Odontológico Web
-
-## Descripción
-
 Desarrollé una aplicación web para un consultorio odontológico con las siguientes funcionalidades:
 
 - **Gestión de Usuarios y Odontólogos:** Alta de usuarios y odontólogos, visualización de listados de ambos con sus datos.
